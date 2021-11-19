@@ -23,14 +23,14 @@
     
     .cabecalho{
     
-        position: relative;
+        
         height: 800px;
         background-image: url('./Imagens/pizzaH.jpg');
         background-size: cover;
         border-radius: 50px;
+        position: relative;
     
         }
-    
     
         h2{
     
@@ -42,13 +42,13 @@
             left: 50%;
             margin-right: -50%;
             transform: translate(-50%,-50%);
+            background-color: #FFFFFFBB;
+            border-radius: 30px;
+            padding: 30px;
+
             }
     
-    
-    
-
-    
-    
+      
 .menuprincipal{
     
     list-style: none;
@@ -58,7 +58,10 @@
     padding-top: 10px;
     color: maroon;
     font-family: 'Praise', cursive;
-    
+    background-color: #FFFFFFBB;
+    border-radius: 30px;
+    padding: 15px;
+
     }
     
     

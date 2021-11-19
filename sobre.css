@@ -18,9 +18,15 @@ background-image: url(./Imagens/empresa.png.jpg);
 height: 800px;
 background-size: cover;
 border-radius: 50px;
-display: flex;
-justify-content: center;
-align-items: center;
+position: relative;
+
+
+}
+
+
+.voltar{
+
+    float:right;
 
 
 }
@@ -31,10 +37,15 @@ align-items: center;
     font-size: 30px;
     color: black;
     font-family: 'Praise', cursive;
-    background-size: cover;
-    border-radius: 50px;
-    text-align: center;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%,-50%);
+    position: relative;
     
+ 
+    
+ 
 
 
 }
