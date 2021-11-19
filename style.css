@@ -35,7 +35,6 @@
         h2{
     
             color: maroon;
-            font-family: 'Pacifico', cursive;
             font-family: 'Praise', cursive;
             font-size: 100px;
             position: absolute;
@@ -58,7 +57,6 @@
     padding-right: 20px;
     padding-top: 10px;
     color: maroon;
-    font-family: 'Pacifico', cursive;
     font-family: 'Praise', cursive;
     
     }
@@ -78,9 +76,8 @@
     color: white;
     text-align: justify;
     padding-right: 30px;
-    font-family: 'Pacifico', cursive;
     font-family: 'Praise', cursive;
-    font-size: 30px;
+    font-size: 40px;
     
     }
 
@@ -93,7 +90,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-  
+    width: 100%;
 
     }
 
@@ -109,9 +106,8 @@
     .tiposdep{
 
    color: black;
-   font-family: 'Pacifico', cursive;
    font-family: 'Praise', cursive;
-   font-size: 20px;
+   font-size: 40px;
    list-style-position: inside;
   
 
@@ -146,8 +142,7 @@
     background-color: black;
     padding: 10px;
     border-radius: 10px;
-    font-family: 'Pacifico', cursive;
     font-family: 'Praise', cursive;
-   
+   font-size: 30px;
    
     }

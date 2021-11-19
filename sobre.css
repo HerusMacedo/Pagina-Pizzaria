@@ -1,0 +1,40 @@
+*{
+
+margin: 0;
+padding: 0;
+
+}
+
+body{
+
+background-color: black;
+
+
+}
+
+.imagemempresa{
+
+background-image: url(./Imagens/empresa.png.jpg);
+height: 800px;
+background-size: cover;
+border-radius: 50px;
+display: flex;
+justify-content: center;
+align-items: center;
+
+
+}
+
+.sobrenos{
+
+    background-color: #FFFFFFBB;
+    font-size: 30px;
+    color: black;
+    font-family: 'Praise', cursive;
+    background-size: cover;
+    border-radius: 50px;
+    text-align: center;
+    
+
+
+}
