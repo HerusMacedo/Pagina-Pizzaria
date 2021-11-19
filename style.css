@@ -90,10 +90,18 @@
     height: 800px;
     background-size: cover;
     border-radius: 50px;
-   
-    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  
 
+    }
 
+    .itens{
+
+   padding: 80px;
+   border-radius: 20px;
+   background-color: #FFFFFFBB;
 
 
     }
@@ -103,18 +111,13 @@
    color: black;
    font-family: 'Pacifico', cursive;
    font-family: 'Praise', cursive;
-   display: flex;
    font-size: 20px;
-   
-   
+   list-style-position: inside;
   
+
   
 
     }
-    
-
-    
-    
   
     
     .links{
@@ -143,6 +146,8 @@
     background-color: black;
     padding: 10px;
     border-radius: 10px;
-
+    font-family: 'Pacifico', cursive;
+    font-family: 'Praise', cursive;
+   
    
     }
