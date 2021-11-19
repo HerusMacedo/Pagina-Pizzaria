@@ -104,30 +104,18 @@
    font-family: 'Pacifico', cursive;
    font-family: 'Praise', cursive;
    display: flex;
-   justify-content: center;
    font-size: 20px;
+   
+   
   
   
 
     }
     
-    
-    footer{
-    
-    background-color: #FFFFFFBB;
-    border-radius: 10px;
-    padding: 20px;
+
     
     
-    }
-    
-    
-    .creditos{
-    
-    color: white;
-    
-    
-    }
+  
     
     .links{
     
@@ -135,4 +123,26 @@
     font-size: 20px;
     
     
+    }
+
+    footer{
+
+        height: 200px;
+        background-color: white;
+        border-radius: 50px;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+
+    }
+
+    .info{
+
+    color: white;
+    text-align: center;
+    background-color: black;
+    padding: 10px;
+    border-radius: 10px;
+
+   
     }
