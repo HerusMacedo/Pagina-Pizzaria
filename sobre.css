@@ -70,9 +70,6 @@ to {background-color: black; color: white;}
     border-radius: 30px;
     padding: 15px;
     margin-top: 10px;
-    animation-name: mudarcor;
-animation-fill-mode: forwards;
-animation-duration: 5s;
-
+    
 }
 
