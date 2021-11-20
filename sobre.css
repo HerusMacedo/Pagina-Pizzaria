@@ -38,13 +38,23 @@ font-family: 'Praise', cursive;
 text-align: justify;
 font-size: 40px;
 display: inline-block;
+animation-name: mudarcor;
+animation-fill-mode: forwards;
+animation-duration: 5s;
 
 }
 
 
 
 
+@keyframes mudarcor{
 
+from {background-color: #FFFFFFBB;}
+to {background-color: black; color: white;}
+
+
+
+}
 
 
 
@@ -60,6 +70,9 @@ display: inline-block;
     border-radius: 30px;
     padding: 15px;
     margin-top: 10px;
+    animation-name: mudarcor;
+animation-fill-mode: forwards;
+animation-duration: 5s;
 
 }
 
