@@ -9,17 +9,25 @@ padding: 0;
 
 body{
 
-   background-image: url(./Imagens/pizzapcont.jpg);
-   background-size: cover;
-   border-radius: 50px;
+   background-color: black;
+ 
+
    
+
+}
+
+.imagempizza{
+
+background-image: url(./Imagens/pizzapcont.jpg);
+background-size: cover;
+
 
 }
 
 
 #conteudo{
 
-    margin: 10px;
+margin: 10px;
 background-color: #FFFFFFBB;
 height: 600px;
 width: 500px;
@@ -36,6 +44,7 @@ display: block;
 text-align: center;
 width: 200px;
 border: none;
+box-sizing: border-box;
 
 }
 
