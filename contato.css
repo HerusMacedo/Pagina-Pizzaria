@@ -17,6 +17,19 @@ body{
 
 }
 
+li{
+
+   border-radius: 30px;
+   padding: 15px;
+   text-align: center;
+   width: 300px;
+   color: black;
+   background-color:#FFFFFFBB ;
+   font-family: 'Praise', cursive;
+   font-size: 30px;
+  
+
+}
 
 .porbaixo{
 
@@ -24,7 +37,7 @@ body{
    background-image: url(./Imagens/pizzapcont.jpg);
    background-size: cover;
    height: 700px;
-   border-radius: 30px;
+   border-radius: 50px;
 
 
 }
@@ -32,12 +45,14 @@ body{
 
 #conteudo{
 
-margin: 10px;
+margin: auto;
 background-color: #FFFFFFBB;
 height: 600px;
 width: 500px;
 border-radius: 20px;
 float: right;
+
+
 
 
 }
