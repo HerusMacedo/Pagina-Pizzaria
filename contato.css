@@ -29,11 +29,14 @@ a{
    padding: 15px;
    text-align: center;
    width: 300px;
-   color: black;
+   color: maroon;
    background-color:#FFFFFFBB ;
    font-family: 'Praise', cursive;
    font-size: 30px;
    list-style: none;
+   float: left;
+   margin-top: 20px;
+   margin-left: 10px;
   
  
   
