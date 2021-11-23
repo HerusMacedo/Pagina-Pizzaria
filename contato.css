@@ -9,6 +9,7 @@ padding: 0;
 
 body{
 
+   
    background-color: black;
  
 
@@ -16,10 +17,14 @@ body{
 
 }
 
-.imagempizza{
 
-background-image: url(./Imagens/pizzapcont.jpg);
-background-size: cover;
+.porbaixo{
+
+
+   background-image: url(./Imagens/pizzapcont.jpg);
+   background-size: cover;
+   height: 700px;
+   border-radius: 30px;
 
 
 }
@@ -37,14 +42,18 @@ float: right;
 
 }
 
+
 .botao{
 
+
 padding: 10px;
-display: block;
-text-align: center;
-width: 200px;
+width: 300px;
 border: none;
 box-sizing: border-box;
+display: block;
+text-align: center;
+margin: auto;
+margin-top: 10px;
 
 }
 
