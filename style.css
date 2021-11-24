@@ -61,10 +61,25 @@
     padding: 15px;
     margin: 10px;
     
+    transition-property: background-color;
+    transition-duration: 500ms;
+
     }
     
     
-    
+.menuprincipal:hover{
+
+
+background-color: black;
+color: white;
+
+}
+
+
+
+
+
+
     
     .pizza{
     
@@ -139,12 +154,24 @@
 
     .info{
 
-    color: white;
+    color: maroon;
     text-align: center;
-    background-color: black;
     padding: 10px;
     border-radius: 10px;
     font-family: 'Praise', cursive;
    font-size: 30px;
    
+   transition-duration: background-color;
+   transition-duration: 500ms;
+
+
+
+
+    }
+
+    .info:hover{
+
+background-color: black;
+color: white;
+
     }
