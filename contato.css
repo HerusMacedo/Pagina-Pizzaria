@@ -37,15 +37,28 @@ a{
    float: left;
    margin-top: 20px;
    margin-left: 10px;
-  
- 
-  
-  
-  
-   
-  
+    
+
+   transition-duration: 500ms;
+   transition-property: background-color;
+
+
 
 }
+
+
+.voltar:hover{
+
+background-color: black;
+color: white;
+
+
+}
+
+
+
+
+
 
 .porbaixo{
 
